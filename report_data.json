@@ -1,0 +1,249 @@
+{
+  "report_data": {
+    "中型教室1": {
+      "src_pos": [
+        0.25,
+        8.04,
+        1.2
+      ],
+      "freq_rows": [
+        {
+          "freq": "125Hz",
+          "count": 194,
+          "mean_delta": 1.48,
+          "mae": 1.57,
+          "rmse": 1.9,
+          "p95": 3.41,
+          "max_abs": 3.6
+        },
+        {
+          "freq": "250Hz",
+          "count": 184,
+          "mean_delta": 0.75,
+          "mae": 1.38,
+          "rmse": 1.7,
+          "p95": 3.34,
+          "max_abs": 3.76
+        },
+        {
+          "freq": "500Hz",
+          "count": 192,
+          "mean_delta": 1.0,
+          "mae": 1.66,
+          "rmse": 2.07,
+          "p95": 4.36,
+          "max_abs": 4.98
+        },
+        {
+          "freq": "1000Hz",
+          "count": 192,
+          "mean_delta": -0.18,
+          "mae": 2.1,
+          "rmse": 2.59,
+          "p95": 5.03,
+          "max_abs": 6.29
+        },
+        {
+          "freq": "2000Hz",
+          "count": 191,
+          "mean_delta": 2.02,
+          "mae": 2.27,
+          "rmse": 2.64,
+          "p95": 4.91,
+          "max_abs": 5.49
+        },
+        {
+          "freq": "4000Hz",
+          "count": 194,
+          "mean_delta": -0.67,
+          "mae": 1.31,
+          "rmse": 1.6,
+          "p95": 2.79,
+          "max_abs": 4.15
+        },
+        {
+          "freq": "8000Hz",
+          "count": 195,
+          "mean_delta": 0.27,
+          "mae": 1.13,
+          "rmse": 1.38,
+          "p95": 2.81,
+          "max_abs": 3.82
+        }
+      ],
+      "avg": {
+        "mean_delta": 0.66,
+        "mae": 1.63,
+        "rmse": 1.98,
+        "p95": 3.81,
+        "max_abs": 6.29
+      }
+    },
+    "会议室": {
+      "src_pos": [
+        -3.82,
+        11.91,
+        1.2
+      ],
+      "freq_rows": [
+        {
+          "freq": "125Hz",
+          "count": 197,
+          "mean_delta": 0.2,
+          "mae": 1.51,
+          "rmse": 1.67,
+          "p95": 2.59,
+          "max_abs": 2.76
+        },
+        {
+          "freq": "250Hz",
+          "count": 192,
+          "mean_delta": 0.32,
+          "mae": 1.81,
+          "rmse": 2.11,
+          "p95": 3.5,
+          "max_abs": 8.26
+        },
+        {
+          "freq": "500Hz",
+          "count": 196,
+          "mean_delta": 0.39,
+          "mae": 1.96,
+          "rmse": 2.35,
+          "p95": 4.59,
+          "max_abs": 4.91
+        },
+        {
+          "freq": "1000Hz",
+          "count": 194,
+          "mean_delta": 0.02,
+          "mae": 1.96,
+          "rmse": 2.5,
+          "p95": 4.97,
+          "max_abs": 6.65
+        },
+        {
+          "freq": "2000Hz",
+          "count": 199,
+          "mean_delta": 0.24,
+          "mae": 1.22,
+          "rmse": 1.68,
+          "p95": 3.88,
+          "max_abs": 4.54
+        },
+        {
+          "freq": "4000Hz",
+          "count": 196,
+          "mean_delta": 0.32,
+          "mae": 1.39,
+          "rmse": 1.66,
+          "p95": 3.08,
+          "max_abs": 3.92
+        },
+        {
+          "freq": "8000Hz",
+          "count": 199,
+          "mean_delta": 1.1,
+          "mae": 2.01,
+          "rmse": 2.36,
+          "p95": 4.36,
+          "max_abs": 6.62
+        }
+      ],
+      "avg": {
+        "mean_delta": 0.37,
+        "mae": 1.69,
+        "rmse": 2.05,
+        "p95": 3.85,
+        "max_abs": 8.26
+      }
+    },
+    "超大型教室": {
+      "src_pos": [
+        1.29,
+        7.52,
+        1.2
+      ],
+      "freq_rows": [
+        {
+          "freq": "125Hz",
+          "count": 197,
+          "mean_delta": 0.07,
+          "mae": 1.08,
+          "rmse": 1.32,
+          "p95": 2.61,
+          "max_abs": 3.94
+        },
+        {
+          "freq": "250Hz",
+          "count": 196,
+          "mean_delta": 0.2,
+          "mae": 1.17,
+          "rmse": 1.48,
+          "p95": 3.36,
+          "max_abs": 3.75
+        },
+        {
+          "freq": "500Hz",
+          "count": 197,
+          "mean_delta": -0.19,
+          "mae": 1.62,
+          "rmse": 2.33,
+          "p95": 4.64,
+          "max_abs": 12.09
+        },
+        {
+          "freq": "1000Hz",
+          "count": 198,
+          "mean_delta": -0.2,
+          "mae": 2.09,
+          "rmse": 2.6,
+          "p95": 5.06,
+          "max_abs": 6.85
+        },
+        {
+          "freq": "2000Hz",
+          "count": 198,
+          "mean_delta": -0.51,
+          "mae": 1.48,
+          "rmse": 1.94,
+          "p95": 4.08,
+          "max_abs": 4.81
+        },
+        {
+          "freq": "4000Hz",
+          "count": 195,
+          "mean_delta": -0.13,
+          "mae": 1.59,
+          "rmse": 2.06,
+          "p95": 3.77,
+          "max_abs": 7.09
+        },
+        {
+          "freq": "8000Hz",
+          "count": 197,
+          "mean_delta": 0.85,
+          "mae": 2.15,
+          "rmse": 2.79,
+          "p95": 4.61,
+          "max_abs": 11.34
+        }
+      ],
+      "avg": {
+        "mean_delta": 0.01,
+        "mae": 1.6,
+        "rmse": 2.07,
+        "p95": 4.02,
+        "max_abs": 12.09
+      }
+    }
+  },
+  "overall": {
+    "total_cases": 21,
+    "mae": 1.64,
+    "rmse": 2.03,
+    "p95": 3.89,
+    "max_abs": 12.09,
+    "mean_delta": 0.35
+  }
+}
