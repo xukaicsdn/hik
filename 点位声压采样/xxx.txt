@@ -1,0 +1,5 @@
+你是资深测试工程师，请跟入如下文件
+dir "E:\work\hik\点位声压采样\*ES5和声压数据相对最近点位声压级对比.xlsx" /s /b
+
+不考虑“E:\work\hik\点位声压采样\求解结果对比-直达声压（RoomMapping）\大型教室 - 由于EASE5和自研尺寸对不上暂时不测”滤过
+根据这些excel数据给我生成测试报告，这些文件是自研和EASE5（行业标杆）同条件下的听音面相对点位直达声压数据的一个汇总比对，你帮我按直达声压  单声源  双声源维度生成测试报告（word报告），这是给大老板看的  不懂的一定要问我。重点关注delta_db(self-ease5)，在报告体现出delta_db(self-ease5) ±3的数据占比是多少，＞3或<-3的数据在报告体现出来，信息也体现出来如ease5_xease5_yease5_zself_序号self_行号self_列号self_xself_yself_zease5_splself_spldelta_db(self-ease5)求解结果对比-直达声压（RoomMapping）match_dist_xyz，报告中要体现出来散点图（我在excel有画），还要体现出声源坐标，总之一句话就是比对自研和额ease5相对点位（xyz）声压之间差距大吗   偏差大的话开发通过报告去优化    （散点图在报告中你能帮我把-3到3的部分用红框标出来吗，比如如图）
