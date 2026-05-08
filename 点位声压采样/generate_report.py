@@ -238,7 +238,7 @@ def compute_statistics(df):
         'below_3_pct': below_3 / total * 100,
         'above_3_count': int(above_3),
         'above_3_pct': above_3 / total * 100,
-        'p95_abs': delta.abs().quantile(0.95),
+        'p95_abs': float(np.percentile(delta.abs(), 95)),
         'median': delta.median(),
     }
     return stats
