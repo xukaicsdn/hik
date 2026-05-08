@@ -18,11 +18,11 @@ from openpyxl.chart import Reference, ScatterChart, Series
 # =========================
 # 用户可直接在这里改参数（代码内指定）
 # =========================
-SELF_FILE_CONFIG = r"E:\AudioSimulationSnap\data\求解结果对比-直达声压（RoomMapping）\中型教室1\双声源\【中型教室1】【双声源，三分之一倍频程，A加权，直达声压】【1000HZ】- 声压数据_20260422_115551.xlsx"
-EASE5_FILE_CONFIG = r"E:\AudioSimulationSnap\data\求解结果对比-直达声压（RoomMapping）\中型教室1\双声源\【中型教室1】【双声源，三分之一倍频程，A加权，直达声压】【1000HZ】- ES5数据_20260422_120334.xlsx"
+# SELF_FILE_CONFIG = r"E:\AudioSimulationSnap\点位声压采样\求解结果对比-直达声压（RoomMapping）\中型教室1\双声源\【中型教室1】【双声源，三分之一倍频程，A加权，直达声压】【2000HZ】- 声压数据_20260422_115551.xlsx"
+# EASE5_FILE_CONFIG = r"E:\AudioSimulationSnap\点位声压采样\求解结果对比-直达声压（RoomMapping）\中型教室1\双声源\【中型教室1】【双声源，三分之一倍频程，A加权，直达声压】【2000HZ】- ES5数据_20260422_120334.xlsx"
 
-# SELF_FILE_CONFIG = r"E:\AudioSimulationSnap\声压数据_20260430_145415.xlsx"
-# EASE5_FILE_CONFIG = r"E:\AudioSimulationSnap\ES5数据_20260430_150223.xlsx"
+SELF_FILE_CONFIG = r"E:\AudioSimulationSnap\声压数据_20260508_105709.xlsx"
+EASE5_FILE_CONFIG = r"E:\AudioSimulationSnap\ES5数据_20260508_110508.xlsx"
 
 SELF_SHEET_CONFIG = "声压数据"
 EASE5_SHEET_CONFIG = "ES5数据"

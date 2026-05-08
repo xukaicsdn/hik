@@ -121,4 +121,4 @@ def main():
 
 if __name__ == '__main__':
     # main()
-    validate_coordinates_from_file(r"E:\AudioSimulationSnap\声压数据_20260430_173820.xlsx")
+    validate_coordinates_from_file(r"E:\AudioSimulationSnap\ES5数据_20260508_110508.xlsx")
